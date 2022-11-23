@@ -1,0 +1,5 @@
+# Retrospektiivitekniikka
+
+## Glad, Sad, Mad
+
+Glad, Sad, Mad (Lyhyemmin jatkossa GSM) on yksinkertainen tapa tehdä retrospektiiviä sprintin jälkeen. Sprintin jälkeen mietitään yhdessä tiimin kanssa, mikä meni hyvin, vähemmän hyvin ja huonosti/ärsyttävästi. GSM:ssä eri tunteita aiheuttaneet asiat kerätään esimerkiksi lapuille, jotka sitten ripustetaan seinälle omiin joukkoihinsa, jotka luonnollisesti ovat Glad, Sad ja Mad. Retrospektiivi aloitetaan kirjoittamalla lapulle jotain, joka on jäänyt mieleen edellisestä sprintistä. Tämä jotain voi olla mitä tahansa projektiin liittyvää tai jopa sen ulkopuolelta, jos se on vaikuttanut sprintin aikana työntekoon. Esimerkkeinä voivat olla “tietokannan implementointi saatiin etuajassa valmiiksi” tai “viallisen hissin takia jouduin nousemaan portaita 6 kerrosta”. Laput asetetaan taululle sille sopivaan kohtaan riippuen, mitä tunteita se herätti ja tiimiläiset äänestävät, mitkä aiheet ovat kiireisimpiä, tai mitä halutaan ensiksi käsitellä. Tällä prosessillä käydään läpi kaikki laput, tai ainakin ne johon aika riittävät.
