@@ -11,7 +11,7 @@ class And:
         return True
 
 class QueryBuilder:
-    def __init__(self, pino = And()):
+    def __init__(self, pino = []):
         self.matcher_obj = pino
         
     def playsIn(self, team):
@@ -24,7 +24,7 @@ class QueryBuilder:
         return QueryBuilder(HasFewerThan(self.matcher_obj, value, attr))
     
     def build(self):
-        return self.matcher_obj
+        return And(self.matcher_obj)
 
     
 class Or:
@@ -45,7 +45,7 @@ class PlaysIn:
         self._team = team
 
     def test(self, player):
-        return player.team == self._team,
+        return player.team == self._team
 
 
 class HasAtLeast:
